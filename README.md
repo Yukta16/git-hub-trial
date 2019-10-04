@@ -6,6 +6,7 @@
 * Pink
 * Blue
 * Purple
+* Yellow
 
 ### Free Strickers
 #### Yayy: 	
