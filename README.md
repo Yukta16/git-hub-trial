@@ -1,5 +1,6 @@
 # Hacktoberfest
-      Annual Global October event. Repo belongs to the year 2019
+      Annual Global October event.
+      Repo belongs to the year 2019.
 
 ### Free T-shirt
 #### Yayy 
