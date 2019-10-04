@@ -1,4 +1,5 @@
-# Hacktoberfest 19
+# Hacktoberfest
+## 2019
 
 ### Free T-shirt
 #### Yayy 
@@ -18,6 +19,7 @@
 * Pranav0408
 * Pranav0811
 * Zeus811p
+* Blazeus
 
 ## Conclusion
       It was a fun in learning Markdown Language
