@@ -18,6 +18,7 @@
 * Pranav0408
 * Pranav0811
 * Zeus811p
+* Blazeus
 
 ## Conclusion
       It was a fun in learning Markdown Language
